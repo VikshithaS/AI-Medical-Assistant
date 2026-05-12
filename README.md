@@ -51,21 +51,3 @@ User → UI → FastAPI Backend → Agent Decision Module → Processing → Res
 pip install -r requirements.txt
 ## To run the server
 python -m uvicorn app:app --reload
-Sample Features
-Fever diagnosis support
-Cold and cough guidance
-Vomiting and gastric issue suggestions
-Voice-enabled chatbot interaction
-File upload analysis
-Future Enhancements
-Integration with advanced AI/LLM models
-Real-time doctor consultation
-Cloud deployment
-Mobile application support
-Disclaimer
-
-This project provides preliminary AI-based guidance and is not a replacement for professional medical advice.
-
-Author
-
-Vikshitha S
